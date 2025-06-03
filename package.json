@@ -1,7 +1,7 @@
 {
-  "name": "immutable-db",
+  "name": "snapshot-db",
   "version": "0.0.1",
-  "description": "ImmutableDB",
+  "description": "SnapshotDB",
   "main": "dist/index.umd.js",
   "types": "dist/index.d.ts",
   "type": "commonjs",
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucasrainett/immutable-db"
+    "url": "https://github.com/lucasrainett/snapshot-db"
   },
   "keywords": [
-    "ImmutableDB",
-    "Immutable",
+    "SnapshotDB",
+    "Snapshot",
     "Database",
     "nosql"
   ],

@@ -1,1 +1,1 @@
-# immutable-db
+# SnapshotDB

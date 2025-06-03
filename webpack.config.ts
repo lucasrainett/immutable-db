@@ -13,7 +13,7 @@ export default {
     },
     output:{
         libraryTarget: "umd2",
-        library: "ImmutableDB",
+        library: "SnapshotDB",
         globalObject: "this",
         filename: "index.umd.js"
     },
